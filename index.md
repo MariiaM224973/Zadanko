@@ -1,3 +1,3 @@
-## Mariia Madai
-# O mnie
+# Mariia Madai
+## O mnie
 
