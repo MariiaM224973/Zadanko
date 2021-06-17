@@ -1,11 +1,8 @@
 # Mariia Madai
-## O mnie
+## O mnie [Link]()
 
-Syntax highlighted code block
+Fanka dobrej muzyki, czarnej kawy oraz jazdy na rowerze.
 
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
