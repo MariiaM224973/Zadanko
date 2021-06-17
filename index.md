@@ -1,4 +1,4 @@
 # Mariia Madai
-## [O mnie](https://github.com/MariiaM224973/zadankopdstr.git)
+## [O mnie](https://mariiam224973.github.io/zadankopdstr/)
 
 [Link](url) and ![Image](src)
