@@ -1,5 +1,5 @@
 # Mariia Madai
-## O mnie [Link]()
+## .[O mnie]()
 
 Fanka dobrej muzyki, czarnej kawy oraz jazdy na rowerze.
 
