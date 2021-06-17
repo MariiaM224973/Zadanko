@@ -1,5 +1,5 @@
 # Mariia Madai
-## [O mnie](url)
+## [O mnie](https://mariiam224973.github.io/zadankopdstr/)
 
 Fanka dobrej muzyki, czarnej kawy oraz jazdy na rowerze.
 
